@@ -1,0 +1,61 @@
+export default [
+  {
+    'id': 1,
+    'name': 'Stella Johnson',
+    'company': 'Adobe',
+    'designation': 'Product Manager at Adobe',
+    'email': 'stella.johnson@example.com',
+    'phone': 9456597529,
+    'address': 'Chennai, Tamil Nadu',
+
+  }, {
+    'id': 2,
+    'name': 'Garry Sobars',
+    'company': 'Amazon',
+    'designation': 'Product Manager at Amazon',
+    'email': 'garry.sobars@example.com',
+    'phone': 8557457529,
+    'address': 'Chennai, Tamil Nadu',
+  },
+  {
+    'id': 3,
+    'name': 'Alex Dolgove',
+    'company': 'Flipkart',
+    'designation': 'React Developer at Flipkart',
+    'email': 'alex.dolgove@example.com',
+    'phone': 9257487855,
+    'address': 'Chennai, Tamil Nadu',
+  }, {
+    'id': 4,
+    'name': 'Domnic Brown',
+    'company': 'Yahoo',
+    'designation': 'React Developer at Yahoo',
+    'email': 'domnic.brown@example.com',
+    'phone': 6257564579,
+    'address': 'Chennai, Tamil Nadu',
+  }, {
+    'id': 5,
+    'name': 'Kadir M',
+    'company': 'microsoft',
+    'designation': 'Data Sceince at Microsoft',
+    'email': 'kadir.m@example.com',
+    'phone': 7857564579,
+    'address': 'Chennai, Tamil Nadu',
+  }, {
+    'id': 6,
+    'name': 'John Smith',
+    'company': 'Dell',
+    'designation': 'Software Engineer at Dell',
+    'email': 'john.smith@example.com',
+    'phone': 9257564579,
+    'address': 'Chennai, Tamil Nadu',
+  }, {
+    'id': 7,
+    'name': 'Domnic Harris',
+    'company': 'Google',
+    'designation': 'Software Engineer at Google',
+    'email': 'domnic.harris@example.com',
+    'phone': 8257564579,
+    'address': 'Chennai, Tamil Nadu',
+  }
+]

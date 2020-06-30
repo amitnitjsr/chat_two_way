@@ -1,0 +1,12 @@
+.sentmessage{
+    /* background-color: aqua; */
+    color: red;
+    font-weight: 200;
+}
+.bubble{
+    /* background-color: cadetblue; */
+    color: chartreuse;
+}
+.color{
+    color: blue;
+}

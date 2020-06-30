@@ -1,0 +1,21 @@
+.card_body{
+width: 500px;
+margin-left: auto;
+height: fit-content;
+}
+.MuiCardContent-root{
+    background-color: #e9ecef;
+}
+
+.sentmessage{
+    /* background-color: aqua; */
+    color: red;
+    font-weight: 200;
+}
+.bubble{
+    /* background-color: cadetblue; */
+    color: chartreuse;
+}
+.color{
+    color: blue;
+}
